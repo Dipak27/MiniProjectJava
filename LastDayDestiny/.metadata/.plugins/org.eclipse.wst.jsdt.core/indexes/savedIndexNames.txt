@@ -1,0 +1,10 @@
+INDEX VERSION 1.3+D:\LastDayDestiny\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1994451769.index
+2923996941.index
+3956878363.index
+1883061539.index
+811130454.index
+2428229860.index
+1654209651.index
+2037796183.index
+3313755632.index
